@@ -1,0 +1,18 @@
+h1{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+p{
+    text-align: center;
+    font-weight: normal;
+}
+ul{
+    text-align: center;
+    font-weight: bold;
+}
+a{
+    color: rgb(0, 89, 255);
+    text-decoration: none;
+}
